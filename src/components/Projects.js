@@ -17,37 +17,37 @@ export const Projects = () => {
       title: "Covid19 Dashboard",
       description: "Tableau",
       imgUrl: projImg1,
-      url: "https://github.com/ismailNaouadir/Covid19-Deaths-and-Vaccination-Data-Exploration"
+      url: "https://public.tableau.com/app/profile/ismail.naouadir/viz/CovidDeaths_Dashboard/Tableaudebord1"
     },
     {
       title: "Covid19 Data Cleaning",
       description: "Pyhton Pandas",
       imgUrl: projImg2,
-      url: ""
+      url: "https://github.com/ismailNaouadir/Covid19-Deaths-and-Vaccination-Data-Exploration"
     },
     {
       title: "Book-Store Database",
       description: "PostgreSQL",
       imgUrl: projImg3,
-      url: ""
+      url: "https://github.com/ismailNaouadir/Book-Store-Database"
     },
     {
       title: "Statistical Correlation in Medical Data",
       description: "Python Pandas",
       imgUrl: projImg4,
-      url: ""
+      url: "https://github.com/ismailNaouadir/medicalDataVisualizer"
     },
     {
       title: "Innsurance Cost Dashboard",
       description: "Microsoft Power BI",
       imgUrl: projImg5,
-      url: ""
+      url: "https://github.com/ismailNaouadir/USA-Innsurnace-Cost-PowerBI-Dashboard"
     },
     {
       title: "DunderMifflin Paper Company Database",
       description: "SQL and Entity relationship (ER) Diagram",
       imgUrl: projImg6,
-      url: ""
+      url: "https://github.com/ismailNaouadir/dunderMifflinDataBase"
     },
   ];
 
