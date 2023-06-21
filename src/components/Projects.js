@@ -17,31 +17,37 @@ export const Projects = () => {
       title: "Covid19 Dashboard",
       description: "Tableau",
       imgUrl: projImg1,
+      url: "https://github.com/ismailNaouadir/Covid19-Deaths-and-Vaccination-Data-Exploration"
     },
     {
       title: "Covid19 Data Cleaning",
       description: "Pyhton Pandas",
       imgUrl: projImg2,
+      url: ""
     },
     {
       title: "Book-Store Database",
       description: "PostgreSQL",
       imgUrl: projImg3,
+      url: ""
     },
     {
       title: "Statistical Correlation in Medical Data",
       description: "Python Pandas",
       imgUrl: projImg4,
+      url: ""
     },
     {
       title: "Innsurance Cost Dashboard",
       description: "Microsoft Power BI",
       imgUrl: projImg5,
+      url: ""
     },
     {
       title: "DunderMifflin Paper Company Database",
       description: "SQL and Entity relationship (ER) Diagram",
       imgUrl: projImg6,
+      url: ""
     },
   ];
 
